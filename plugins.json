@@ -1,0 +1,20 @@
+{
+  "MoviesShowsPlugin": {
+    "name": "Movies & Shows",
+    "description": "24 streaming sites for movies and TV shows",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/MoviesShowsPlugin-release.cs3"
+  },
+  "AnimePlugin": {
+    "name": "Anime",
+    "description": "17 anime streaming sites",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/AnimePlugin-release.cs3"
+  },
+  "MangaPlugin": {
+    "name": "Manga",
+    "description": "7 manga reading sites",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/MangaPlugin-release.cs3"
+  }
+}

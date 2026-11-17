@@ -1,0 +1,26 @@
+{
+  "name": "CloudStream Multi-Extension Repo",
+  "description": "48 streaming and manga extensions across Movies & Shows, Anime, and Manga categories",
+  "author": "YourName",
+  "url": "https://github.com/USERNAME/REPO",
+  "plugins": [
+    {
+      "name": "Movies & Shows",
+      "description": "24 streaming sites for movies and TV shows",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/MoviesShowsPlugin-release.cs3"
+    },
+    {
+      "name": "Anime",
+      "description": "17 anime streaming sites",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/AnimePlugin-release.cs3"
+    },
+    {
+      "name": "Manga",
+      "description": "7 manga reading sites",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/USERNAME/REPO/builds/builds/MangaPlugin-release.cs3"
+    }
+  ]
+}
